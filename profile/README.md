@@ -16,12 +16,6 @@ Trabalhamos com:
 - APIs escaláveis
 - Integrações modernas com IA e automação
 
-### 👥 Membros da Organização Top-Head
-
-| [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue) | [![Nome do Membro](https://github.com/usuario2.png?size=100)](https://github.com/usuario2) | [![Nome do Membro](https://github.com/usuario3.png?size=100)](https://github.com/usuario3) |
-|:--:|:--:|:--:|
-| [@usuario1](https://github.com/usuario1) | [@usuario2](https://github.com/usuario2) | [@usuario3](https://github.com/usuario3) |
-
 ## 🧠 Tecnologias que usamos
 
 #### **Linguagens e Frameworks**
@@ -91,6 +85,16 @@ Trabalhamos com:
 
 - Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
 - Confira as [issues abertas](https://github.com/Top-Head/issues)
+
+### 👥 Membros da Organização Top-Head
+
+| Avatar | Username | Área |
+|:--:|:--:|:--:|
+| [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue) | [@João Tambue](https://github.com/joao-tambue) | Web & Mobile developer |
+| [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode) | [@Omar Rodrigues](https://github.com/omariscode) | Full Stack Developer |
+| [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) | [@Alfredo Captia](https://github.com/Alfredo-capitia) | Frontend Developer |
+| [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) | Backend Developer |
+| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) | [@Domingos Mbala](https://github.com/GomesMenembage) | Backend Developer & Cyber Security |
 
 ## 📬 Contato
 
