@@ -8,27 +8,86 @@ Na Top-Head, acreditamos que tecnologia é uma ferramenta de transformação. No
 
 Trabalhamos com:
 
-- Desenvolvimento Web (Frontend e Backend)
+- Desenvolvimento Web (Frontend e Backend, Full Stack)
+- Desktop
 - Aplicações Mobile
 - APIs escaláveis
 - Integrações modernas com IA e automação
 
 ## 🧠 Tecnologias que usamos
 
-#### **Linguagens e Frameworks**  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](#)&nbsp;
-[![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=black)](#)&nbsp;
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white)](#)&nbsp;
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)](#)&nbsp;
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)&nbsp;
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)&nbsp;
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](#)&nbsp;
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)&nbsp;
-[![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black)](#)&nbsp;
+#### **Linguagens e Frameworks**
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript\&logoColor=black)](#) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript\&logoColor=white)](#) 
+[![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react\&logoColor=black)](#) 
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js\&logoColor=white)](#) 
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs\&logoColor=white)](#) 
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python\&logoColor=white)](#) 
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php\&logoColor=white)](#) 
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask\&logoColor=white)](#) 
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django\&logoColor=white)](#) 
+[![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react\&logoColor=black)](#) 
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp\&logoColor=white)](#) 
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D7.svg?logo=dotnet\&logoColor=white)](#) 
+[![Electron.js](https://img.shields.io/badge/Electron.js-%2320232a.svg?logo=electron\&logoColor=white)](#) 
+
+
+#### **Bancos de Dados**
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb\&logoColor=white)](#) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql\&logoColor=white)](#) 
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql\&logoColor=white)](#) 
+[![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?logo=sqlite\&logoColor=white)](#) 
+[![Supabase](https://img.shields.io/badge/Supabase-%2300E39F.svg?logo=supabase\&logoColor=white)](#) 
+[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase\&logoColor=white)](#) 
+[![Clark](https://img.shields.io/badge/Clark-%23000000.svg?logo=data\&logoColor=white)](#) 
+
+#### **Tecnologias de Estilização**
+
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3\&logoColor=white)](#) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?logo=tailwindcss\&logoColor=white)](#) 
+[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass\&logoColor=white)](#) 
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap\&logoColor=white)](#) 
+[![Stylesheet](https://img.shields.io/badge/Stylesheet-%23000000.svg?logo=stylelint\&logoColor=white)](#)
+
+#### **DevOps & Ferramentas**
+
+[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite\&logoColor=white)](#) 
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel\&logoColor=white)](#) 
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify\&logoColor=white)](#) 
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions\&logoColor=white)](#) 
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git\&logoColor=white)](#) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github\&logoColor=white)](#) 
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab\&logoColor=white)](#) 
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker\&logoColor=white)](#) 
+[![Vitest](https://img.shields.io/badge/Vitest-%23252525.svg?logo=vitest\&logoColor=yellow)](#) 
+[![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?logo=render\&logoColor=white)](#) 
+[![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?logo=railway\&logoColor=white)](#) 
+[![Aiven](https://img.shields.io/badge/Aiven-%23EF3AAB.svg?logo=aiven\&logoColor=white)](#) 
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman\&logoColor=white)](#) 
+[![Insomnia](https://img.shields.io/badge/Insomnia-%233841D9.svg?logo=insomnia\&logoColor=white)](#) 
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma\&logoColor=white)](#)
+
+#### **Tools & Others**
+
+[![Axios](https://img.shields.io/badge/Axios-%230072C6.svg?logo=axios\&logoColor=white)](#) 
+[![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?logo=reactquery\&logoColor=white)](#) 
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?logo=reactquery\&logoColor=white)](#) 
+[![Zod](https://img.shields.io/badge/Zod-%23000000.svg?logo=zod\&logoColor=white)](#) 
+[![Prisma](https://img.shields.io/badge/Prisma-%23004B50.svg?logo=prisma\&logoColor=white)](#) 
+[![Relume](https://img.shields.io/badge/Relume-%23111111.svg?logo=data\&logoColor=white)](#) 
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?logo=cloudflare\&logoColor=white)](#) 
 
 ## 🤝 Contribua com a Top-Head
+
+![Top-Head GitHub Stats](https://github-readme-stats.vercel.app/api?username=Top-Head&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Top-Head&theme=radical&no-frame=true&no-bg=true&margin-w=10)](#)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Top-Head&theme=radical)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Head&layout=compact&theme=radical)](#)
 
 Quer colaborar com nossos projetos? Estamos abertos a contribuições da comunidade!
 
