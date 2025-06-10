@@ -81,16 +81,6 @@ Trabalhamos com:
 
 ## 🤝 Contribua com a Top-Head
 
-![Top-Head GitHub Stats](https://github-readme-stats.vercel.app/api?username=Top-Head&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Top-Head&theme=radical&no-frame=true&no-bg=true&margin-w=10)](#)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Top-Head&theme=radical)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Head&layout=compact&theme=radical)](#)
-
-Quer colaborar com nossos projetos? Estamos abertos a contribuições da comunidade!
-
 - Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
 - Confira as [issues abertas](https://github.com/Top-Head/issues)
 
