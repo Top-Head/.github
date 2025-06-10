@@ -16,6 +16,12 @@ Trabalhamos com:
 - APIs escaláveis
 - Integrações modernas com IA e automação
 
+### 👥 Membros da Organização Top-Head
+
+| [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue) | [![Nome do Membro](https://github.com/usuario2.png?size=100)](https://github.com/usuario2) | [![Nome do Membro](https://github.com/usuario3.png?size=100)](https://github.com/usuario3) |
+|:--:|:--:|:--:|
+| [@usuario1](https://github.com/usuario1) | [@usuario2](https://github.com/usuario2) | [@usuario3](https://github.com/usuario3) |
+
 ## 🧠 Tecnologias que usamos
 
 #### **Linguagens e Frameworks**
