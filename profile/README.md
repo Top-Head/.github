@@ -86,10 +86,6 @@ Trabalhamos com:
 - Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
 - Confira as [issues abertas](https://github.com/Top-Head/issues)
 
-Perfeito! Aqui está a seção atualizada com o **campo "Cargo"** adicionado, conforme solicitado:
-
----
-
 ### 👥 Membros da Organização Top‑Head
 
 |                                                  Avatar                                                  |                        Username                        |                Área                |           Cargo           |
@@ -100,12 +96,6 @@ Perfeito! Aqui está a seção atualizada com o **campo "Cargo"** adicionado, co
 | [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
 | [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Especialista em Segurança |
 
----
-
-> ⚠️ Corrigi o link incorreto do usuário "Domingos Mbala", que estava apontando para o perfil de "GomesMenembange". Se houver algum outro cargo ou área a atualizar, posso ajustar facilmente.
-
-Deseja que eu adicione também links para LinkedIn, e-mail ou outras redes sociais de cada membro?
-
 
 ## 📬 Contato
 
@@ -113,6 +103,3 @@ Deseja que eu adicione também links para LinkedIn, e-mail ou outras redes socia
 - 📧 Email: contato@tophead.com
 - 💼 LinkedIn: [linkedin.com/company/top-head](https://linkedin.com/company/top-head)
 
----
-
-> ⚠️ Este README é exibido na página principal da organização **Top-Head**.
