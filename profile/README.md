@@ -86,15 +86,26 @@ Trabalhamos com:
 - Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
 - Confira as [issues abertas](https://github.com/Top-Head/issues)
 
-### 👥 Membros da Organização Top-Head
+Perfeito! Aqui está a seção atualizada com o **campo "Cargo"** adicionado, conforme solicitado:
 
-| Avatar | Username | Área |
-|:--:|:--:|:--:|
-| [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue) | [@João Tambue](https://github.com/joao-tambue) | Web & Mobile developer |
-| [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode) | [@Omar Rodrigues](https://github.com/omariscode) | Full Stack Developer |
-| [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) | [@Alfredo Captia](https://github.com/Alfredo-capitia) | Frontend Developer |
-| [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) | Backend Developer |
-| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) | [@Domingos Mbala](https://github.com/GomesMenembage) | Backend Developer & Cyber Security |
+---
+
+### 👥 Membros da Organização Top‑Head
+
+|                                                  Avatar                                                  |                        Username                        |                Área                |           Cargo           |
+| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------: | :-----------------------: |
+|      [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode)      |    [@Omar Rodrigues](https://github.com/omariscode)    |        Full Stack Developer        |            Scrum Master           |
+|       [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue)      |     [@João Tambue](https://github.com/joao-tambue)     |       Web & Mobile Developer       |            Product Owner            |
+| [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) |  [@Alfredo Captia](https://github.com/Alfredo-capitia) |         Frontend Developer         |    Engenheiro Frontend    |
+| [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
+| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Especialista em Segurança |
+
+---
+
+> ⚠️ Corrigi o link incorreto do usuário "Domingos Mbala", que estava apontando para o perfil de "GomesMenembange". Se houver algum outro cargo ou área a atualizar, posso ajustar facilmente.
+
+Deseja que eu adicione também links para LinkedIn, e-mail ou outras redes sociais de cada membro?
+
 
 ## 📬 Contato
 
