@@ -94,7 +94,8 @@ Trabalhamos com:
 |       [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue)      |     [@João Tambue](https://github.com/joao-tambue)     |       Web & Mobile Developer       |            Product Owner            |
 | [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) |  [@Alfredo Captia](https://github.com/Alfredo-capitia) |         Frontend Developer         |    Engenheiro Frontend    |
 | [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
-| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Especialista em Segurança |
+| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Segurança Cybernetica |
+| [![Gelson Ganga](https://github.com/gelsonganga1.png?size=100)](https://github.com/gelsonganga1) |  [@Gelson Ganga](https://github.com/gelsonganga1) | Frontend Developer | Engenheiro Frontend |
 
 
 ## 📬 Contato
