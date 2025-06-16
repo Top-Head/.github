@@ -96,7 +96,7 @@ Trabalhamos com:
 | [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
 | [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Segurança Cybernetica |
 | [![Gelson Ganga](https://github.com/gelsonganga1.png?size=100)](https://github.com/gelsonganga1) |  [@Gelson Ganga](https://github.com/gelsonganga1) | Frontend Developer | Engenheiro Frontend |
-| [![David Armando](https://github.com/gelsonganga1.png?size=100)](https://github.com/gelsonganga1) |  [@Gelson Ganga](https://github.com/gelsonganga1) | Frontend Developer | Engenheiro Frontend |
+| [![David Armando](https://github.com/DavidArmando123.png?size=100)](https://github.com/gelsonganga1) |  [@David Armando](https://github.com/DavidArmando123) | Backend Developer | Engenheiro Backend |
 
 
 ## 📬 Contato
