@@ -90,7 +90,7 @@ Trabalhamos com:
 
 |                                                  Avatar                                                  |                        Username                        |                Área                |           Cargo           |
 | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------: | :-----------------------: |
-|      [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode)      |    [@Omar Rodrigues](https://github.com/omariscode)    |        Backend Developer       |            Engenheiro Backend          |
+|      [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode)      |    [@Omar Rodrigues](https://github.com/omariscode)    |        Backend Developer       |            Scrum Master         |
 |       [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue)      |     [@João Tambue](https://github.com/joao-tambue)     |       Web & Mobile Developer       |            Product Owner            |
 | [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) |  [@Alfredo Captia](https://github.com/Alfredo-capitia) |         Software Enginer|   Scrum Master    |
 | [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
