@@ -1,10 +1,6 @@
 # 🎯 Top-Head
 
-<img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
-
-Bem-vindo à **Top-Head**, uma organização dedicada a desenvolver soluções inovadoras em tecnologia e impulsionar projetos de alto impacto.
-
-## 🚀 Sobre nós
+## Sobre nós
 
 Na Top-Head, acreditamos que tecnologia é uma ferramenta de transformação. Nosso objetivo é construir softwares modernas, acessíveis e eficientes que façam a diferença no dia a dia das pessoas.
 
@@ -13,8 +9,8 @@ Trabalhamos com:
 - Desenvolvimento Web (Frontend e Backend, Full Stack)
 - Desktop
 - Aplicações Mobile
-- APIs escaláveis
-- Integrações modernas com IA e automação
+- APIs
+- Integrações com IA e automação
 
 ## 🧠 Tecnologias que usamos
 
@@ -85,23 +81,3 @@ Trabalhamos com:
 
 - Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
 - Confira as [issues abertas](https://github.com/Top-Head/issues)
-
-### 👥 Membros da Organização Top‑Head
-
-|                                                  Avatar                                                  |                        Username                        |                Área                |           Cargo           |
-| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------: | :-----------------------: |
-|      [![Omar Rodrigues](https://github.com/omariscode.png?size=100)](https://github.com/omariscode)      |    [@Omar Rodrigues](https://github.com/omariscode)    |        Backend Developer       |            Scrum Master         |
-|       [![João Tambue](https://github.com/joao-tambue.png?size=100)](https://github.com/joao-tambue)      |     [@João Tambue](https://github.com/joao-tambue)     |       Web & Mobile Developer       |            Product Owner            |
-| [![Alfredo Captia](https://github.com/Alfredo-capitia.png?size=100)](https://github.com/Alfredo-capitia) |  [@Alfredo Captia](https://github.com/Alfredo-capitia) |         Software Enginer|   Scrum Master    |
-| [![Gomes Menembange](https://github.com/GomesMenembage.png?size=100)](https://github.com/GomesMenembage) | [@Gomes Menembange](https://github.com/GomesMenembage) |          Backend Developer         |     Engenheiro Backend    |
-| [![Domingos Mbala](https://github.com/Black-machine09.png?size=100)](https://github.com/Black-machine09) |  [@Domingos Mbala](https://github.com/Black-machine09) | Backend Developer & Cyber Security | Segurança Cybernetica |
-| [![Gelson Ganga](https://github.com/gelsonganga1.png?size=100)](https://github.com/gelsonganga1) |  [@Gelson Ganga](https://github.com/gelsonganga1) | Frontend Developer | Engenheiro Frontend |
-| [![David Armando](https://github.com/DavidArmando123.png?size=100)](https://github.com/gelsonganga1) |  [@David Armando](https://github.com/DavidArmando123) | Backend Developer | Engenheiro Backend |
-
-
-## 📬 Contato
-
-- 🌐 Site oficial: [em breve]
-- 📧 Email: contato@tophead.com
-- 💼 LinkedIn: [linkedin.com/company/top-head](https://linkedin.com/company/top-head)
-
