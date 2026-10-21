@@ -1,16 +1,4 @@
-# 🎯 Top-Head
-
-## Sobre nós
-
-Na Top-Head, acreditamos que tecnologia é uma ferramenta de transformação. Nosso objetivo é construir softwares modernas, acessíveis e eficientes que façam a diferença no dia a dia das pessoas.
-
-Trabalhamos com:
-
-- Desenvolvimento Web (Frontend e Backend, Full Stack)
-- Desktop
-- Aplicações Mobile
-- APIs
-- Integrações com IA e automação
+# Top-Head - Nós fazemos acontecer
 
 ## 🧠 Tecnologias que usamos
 
@@ -76,8 +64,3 @@ Trabalhamos com:
 [![Prisma](https://img.shields.io/badge/Prisma-%23004B50.svg?logo=prisma\&logoColor=white)](#) 
 [![Relume](https://img.shields.io/badge/Relume-%23111111.svg?logo=data\&logoColor=white)](#) 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?logo=cloudflare\&logoColor=white)](#) 
-
-## 🤝 Contribua com a Top-Head
-
-- Veja nosso [guia de contribuição](https://github.com/Top-Head/CONTRIBUTING.md)
-- Confira as [issues abertas](https://github.com/Top-Head/issues)
